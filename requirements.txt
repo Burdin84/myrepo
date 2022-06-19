@@ -1,1 +1,1 @@
-plotlib
+plotly
